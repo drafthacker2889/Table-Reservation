@@ -1,4 +1,4 @@
-# 🍽️ The Gilded Fork - Enterprise Edition (v4.0)
+# 🍽️ Table Reservation - Enterprise Edition (v4.0)
 
 A complete, end-to-end Restaurant Management System (RMS) written in Python. This application manages the entire dining lifecycle: from table reservations and inventory tracking to kitchen display and final billing.
 
@@ -92,5 +92,6 @@ Use the following default accounts to access the system:
 * **"Out of Stock" Warning:** This is a feature, not a bug! It means the `inventory` table in the database has run out of ingredients for that item.
 
 ---
+
 
 **License:** MIT
