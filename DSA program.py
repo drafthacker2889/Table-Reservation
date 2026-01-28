@@ -193,7 +193,7 @@ class LoginScreen(tk.Frame):
         container = tk.Frame(self, bg="white", padx=40, pady=40)
         container.place(relx=0.5, rely=0.5, anchor="center")
         
-        tk.Label(container, text="THE GILDED FORK", font=("Georgia", 24, "bold"), bg="white", fg=THEME_COLOR).pack(pady=(0,20))
+        tk.Label(container, text="Table Reservation", font=("Georgia", 24, "bold"), bg="white", fg=THEME_COLOR).pack(pady=(0,20))
         tk.Label(container, text="Username", bg="white").pack(anchor="w")
         self.entry_user = ttk.Entry(container, width=30)
         self.entry_user.pack(pady=(0,10))
