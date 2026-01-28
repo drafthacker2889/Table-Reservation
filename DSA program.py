@@ -5,7 +5,7 @@
 
 
 seatlist = {}
-print("\t\t\t\t\t\t WELCOME TO CALICUT RESTAURANT\n")
+print("\t\t\t\t\t\t WELCOME TO RESTAURANT\n")
 def print_menu():
     print (30 * "-" , "Menu", 30 * "-")
     print ("1. Add reservation")
